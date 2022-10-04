@@ -1,4 +1,5 @@
 def potato()
     print("hello")
 
-potato()
+While True:
+    potato()
